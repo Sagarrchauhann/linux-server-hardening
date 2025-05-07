@@ -65,6 +65,6 @@ A +9 point improvement in the Lynis score reflects effective implementation of h
 
 ## Full Documentation
 
-You can view the full detailed documentation in [Developing a Secure File Transfer System Using SFTP on a Linux Server.docx]
+You can view the full detailed documentation in [Linux Server Hardening and Security Analysis.docx]
 
 ---
